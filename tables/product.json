@@ -1,0 +1,23 @@
+[
+  {
+    "id": "1",
+    "product_name": "bat",
+    "product_price": "3000",
+    "desc": "This is a bat of SG",
+    "stock": 6
+  },
+  {
+    "id": "2",
+    "product_name": "Football",
+    "product_price": "2500",
+    "desc": "This is a football of Kipsta",
+    "stock": 15
+  },
+  {
+    "id": "3",
+    "product_name": "Book",
+    "product_price": "500",
+    "desc": "This is a book",
+    "stock": 3
+  }
+]
